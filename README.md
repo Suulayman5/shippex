@@ -1,50 +1,16 @@
-# Welcome to your Expo app 👋
+Shippex is a mobile application designed to manage shipments efficiently. It provides users with a clean and intuitive dashboard, tools to filter shipments by status, and batch operations such as marking or unmarking all shipments at once. The app also includes a splash screen for branding, a profile section, and additional navigation tabs for scanning and wallet features.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Features
+Splash Screen – Displays a small logo, large logo, then transitions to the main dashboard.
 
-## Get started
+Dashboard – Shows a list of shipments with their details (AWB, origin, destination, status).
 
-1. Install dependencies
+Shipment Filters – Filter shipments based on specific statuses (e.g., In Transit, Delivered).
 
-   ```bash
-   npm install
-   ```
+Mark All / Unmark All – Select or deselect all shipments in the list with one tap.
 
-2. Start the app
+Bottom Tab Navigation – Navigate between Shipments, Scan, Wallet, and Profile (tabs are visible but may not navigate in certain modes).
 
-   ```bash
-   npx expo start
-   ```
+Pull-to-Refresh – Refresh shipment list manually by swiping down.
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# shippex
