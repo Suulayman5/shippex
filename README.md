@@ -1,3 +1,5 @@
+# shippex
+
 Shippex is a mobile application designed to manage shipments efficiently. It provides users with a clean and intuitive dashboard, tools to filter shipments by status, and batch operations such as marking or unmarking all shipments at once. The app also includes a splash screen for branding, a profile section, and additional navigation tabs for scanning and wallet features.
 
 Features
@@ -13,4 +15,4 @@ Bottom Tab Navigation – Navigate between Shipments, Scan, Wallet, and Profile 
 
 Pull-to-Refresh – Refresh shipment list manually by swiping down.
 
-# shippex
+
