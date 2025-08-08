@@ -16,3 +16,4 @@ Bottom Tab Navigation – Navigate between Shipments, Scan, Wallet, and Profile 
 Pull-to-Refresh – Refresh shipment list manually by swiping down.
 
 
+THE APIs WHICH WAS PROVIDED THOSES NOT WORK SO ALL DATA ARE DUMMY DATA
